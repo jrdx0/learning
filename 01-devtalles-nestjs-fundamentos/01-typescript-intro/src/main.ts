@@ -1,4 +1,4 @@
-import { charmander } from "./bases/03-classes";
+import { charmander } from "./bases/06-decorators";
 import "./style.css";
 
 document.querySelector<HTMLDivElement>("#app")!.innerHTML = `
